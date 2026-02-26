@@ -1,4 +1,4 @@
-# LeetCode 1431 - Kids With the Greatest Number of Candies
+# LeetCode 1431 - Kids With the Greatest Number of Candies.
 
 class Solution:
     def kidsWithCandies(self, candies, extraCandies):
@@ -29,4 +29,5 @@ if __name__ == "__main__":
     # Expected: [True, False, False, False, False]
     # Test Case 3
     print(s.kidsWithCandies([12,1,12], 10))
+
     # Expected: [True, False, True]
