@@ -97,7 +97,7 @@ This repository is a **work in progress**, and it will keep evolving with time.
 Constructive feedback, suggestions, and code reviews are always welcome.
 
 Happy Coding & All the Best for your Interviews! 💪🔥
-**Let’s grow and crack interviews together 🚀**
+**Let’s grow & crack interviews together 🚀**
 
 
 
